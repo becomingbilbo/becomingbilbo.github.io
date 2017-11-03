@@ -78,7 +78,7 @@ font-family: Helvetica-neue, Helvetica, sans-serif;
 font-weight: normal;
 font-size: 2em;
 color: #297a5e;
-line-height: 1.45;
+line-height: 1.2;
 text-align: left;
 }
 
@@ -216,7 +216,7 @@ html {
 }
 
 @media only screen and (max-device-width: 480px) {
-    body { font-size: 1.35em; line-height: 1 }
+    body { font-size: 1.35em }
     h1 { font-size: 1.5em }
     h2 { font-size: 2.3em }
     h3 { font-size: 1.6em }
