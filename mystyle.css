@@ -216,7 +216,7 @@ html {
 }
 
 @media only screen and (max-device-width: 480px) {
-    body { font-size: 1.35em }
+    body { font-size: 1.35em; line-height: 1 }
     h1 { font-size: 1.5em }
     h2 { font-size: 2.3em }
     h3 { font-size: 1.6em }
