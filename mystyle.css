@@ -104,6 +104,7 @@ margin-bottom:17px;
 background: #FFFFFF;
 font-family: Helvetica-neue, Helvetica, sans-serif;
 font-weight: bold;
+font-size: 1em;
 color: #000000;
 line-height: 0;
 text-align: left;
@@ -117,6 +118,7 @@ margin-bottom:17px;
 background: #FFFFFF;
 font-family: Helvetica-neue, Helvetica, sans-serif;
 font-weight: bold;
+font-size: .83em;
 color: #000000;
 line-height: 0;
 text-align: left;
@@ -130,6 +132,7 @@ margin-bottom:17px;
 background: #FFFFFF;
 font-family: Helvetica-neue, Helvetica, sans-serif;
 font-weight: bold;
+font-size: .67em;
 color: #000000;
 line-height: 0;
 text-align: left;
@@ -221,8 +224,8 @@ html {
     h2 { font-size: 2em; line-height: 1.1 }
     h3 { font-size: 1.6em }
     h4 { font-size: 1.35em }
-    h5 { font-size: 1.35em }
-    h6 { font-size: 1.35em }
+    h5 { font-size: 1.18em }
+    h6 { font-size: 1.02em }
     #sidebar { font-size: 1.35em }
     #main { font-size: 1.35em }
 }
