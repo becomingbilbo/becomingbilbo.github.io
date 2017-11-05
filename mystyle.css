@@ -148,6 +148,7 @@ margin-bottom:50px;
 text-align: right;
 background: #transparent;
 font-family: Helvetica-neue, Helvetica, sans-serif;
+font-size: 1em;
 color: #666666;
 line-height: 1.45;
 list-style: none;
@@ -190,6 +191,7 @@ line-height: 1.45;
 text-align: center;
 border-width: 0 0 0 0;
 color: #666666;
+font-size: .9em;
 }
 
 #footer a:link {
@@ -207,7 +209,8 @@ color: #666666;
     border-color: #C0C0C0
 }
 #footer a:hover {
-    background: #f1f9e8;
+    background: transparent;
+    color: #000000;
 }
 #footer a:active {
     color: ;
