@@ -139,7 +139,7 @@ text-align: left;
 }
 
 
-#sidebar {
+#menu {
 position: absolute;
 max-width:0px;
 margin: 0 0 0 -155px;
@@ -154,25 +154,27 @@ line-height: 1.45;
 list-style: none;
 }
 
-#sidebar a:link {
+
+
+#menu a:link {
     color: #666666;
     text-decoration: none;
     border-width: 0 0 1px 0;
     border-style: none none none none;
     border-color: #C0C0C0
 }
-#sidebar a:visited {
+#menu a:visited {
     color: #666666;
     text-decoration: none;
     border-width: 0 0 1px 0;
     border-style: none none none none;
     border-color: #C0C0C0
 }
-#sidebar a:hover {
+#menu a:hover {
     background: transparent;
     color: #000000;
 }
-#sidebar a:active {
+#menu a:active {
     color: ;
 }
 
@@ -229,7 +231,7 @@ html {
     h4 { font-size: 1.35em }
     h5 { font-size: 1.18em }
     h6 { font-size: 1.02em }
-    #sidebar { font-size: 1.35em; margin-top: 110px; }
+    #menu { font-size: 1.35em; margin-top: 110px; }
     #main { font-size: 1.35em }
 }
 
