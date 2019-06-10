@@ -139,40 +139,35 @@ text-align: left;
 }
 
 
-#sidebar {
-position: absolute;
-max-width:0px;
-margin: 0 0 0 -155px;
-margin-top:80px;
-margin-bottom:50px;
-text-align: right;
+#menu {
+text-align: center;
 background: transparent;
 font-family: Helvetica-neue, Helvetica, sans-serif;
 font-size: 1em;
 color: #666666;
-line-height: 1.45;
+line-height: 3;
 list-style: none;
 }
 
-#sidebar a:link {
+#menu a:link {
     color: #666666;
     text-decoration: none;
     border-width: 0 0 1px 0;
     border-style: none none none none;
     border-color: #C0C0C0
 }
-#sidebar a:visited {
+#menu a:visited {
     color: #666666;
     text-decoration: none;
     border-width: 0 0 1px 0;
     border-style: none none none none;
     border-color: #C0C0C0
 }
-#sidebar a:hover {
+#menu a:hover {
     background: transparent;
     color: #000000;
 }
-#sidebar a:active {
+#menu a:active {
     color: ;
 }
 
