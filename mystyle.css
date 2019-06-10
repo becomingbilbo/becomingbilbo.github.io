@@ -216,7 +216,7 @@ html {
   overflow-y: scroll; 
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 480px) {
     body { font-size: 1.35em }
     h1 { font-size: 1.5em }
     h2 { font-size: 2em; line-height: 1.1 }
@@ -224,7 +224,7 @@ html {
     h4 { font-size: 1.35em }
     h5 { font-size: 1.18em }
     h6 { font-size: 1.02em }
-    #menu { font-size: 3em; margin-top: 110px; }
+    #menu { font-size: 1.35em; margin-top: 110px; }
     #main { font-size: 1.35em }
 }
 
